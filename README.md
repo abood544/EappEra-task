@@ -9,5 +9,19 @@ EappEra task using codeigniter framework (by abdalmalik almomani)
 			
 
 3- I tried to put all project file in the repo but the github don't allow more than 100 file so i committed any unnecessary files
+
+
+
+		
+For Database details
+
+admin
+1- you can log in useing (email:admin@admin  and password:admin) to view users 
+			
+users
+each user you can login by there email and password  
+		
+		
+(NOTE:i put every users password like his name -ex(email:mike@mike.com password :mike))
 		 
 		 

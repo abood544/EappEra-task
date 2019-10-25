@@ -5,7 +5,7 @@ EappEra task using codeigniter framework (by abdalmalik almomani)
 	
 		
 		
-2-the databse also in file called (ci.sql)
+2-the databse also in file called (ci.sql) you can file the configration inside (config/database.php)
 			
 
 3- I tried to put all project file in the repo but the github don't allow more than 100 file so i committed any unnecessary files
